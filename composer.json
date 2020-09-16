@@ -1,16 +1,17 @@
 {
-  "name": "digitoimistodude/dude-insta-feed",
-  "type": "wordpress-plugin",
-  "description": "Dude Instagram feed",
-  "homepage": "https://github.com/digitoimistodude/dude-insta-feed",
-  "keywords": ["wordpress", "plugin"],
-  "license": "MIT",
-  "version": "0.1.0",
-  "authors": [
-    {
-      "name": "Timi Wahalahti",
-      "email": "timi@dude.fi",
-      "homepage": "https://www.dude.fi"
+    "name": "jake-101/ig-graph-feed",
+    "type": "wordpress-plugin",
+    "description": "Add basic display feed for a IG user",
+    "homepage": "https://github.com/jake-101/dude-insta-feed",
+    "keywords": ["wordpress", "plugin", "instagram"],
+    "authors": [
+        {
+            "name": "jake",
+            "email": "hello@jake101.com",
+           "homepage": "https://jake101.com"
+        }
+    ],
+    "require": {
+        "espresso-dev/instagram-basic-display-php": "^1.1"
     }
-  ]
 }
