@@ -2,7 +2,7 @@
     "name": "jake-101/ig-graph-feed",
     "type": "wordpress-plugin",
     "description": "Add basic display feed for a IG user",
-    "homepage": "https://github.com/jake-101/dude-insta-feed",
+    "homepage": "https://github.com/jake-101/ig-graph-feed",
     "keywords": ["wordpress", "plugin", "instagram"],
     "authors": [
         {
